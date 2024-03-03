@@ -12,8 +12,6 @@ hexaNumber: 0x4dea1                     # Hexa Decimal Numeric vale
 floatingValue: 1                     # floating vale
 
 stringValue: "456"                   # string with double quotes
-stringValue: 'abc'                  # string with single quotes
-stringValue: wer                   # string without quotes
 
 booleanValue:true                   # boolean values - true or false
 
